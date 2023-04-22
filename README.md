@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @x61s
-- 👀 I’m interested in gentoo linux usage.
-- 🌱 I’m currently learning how to configure my system.
+- 👀 I’m interested in web applications infrastructure.
+- 🌱 I’m currently improving my skills as cloud engineer.
 - 💞️ I’m not looking to collaborate right now.
 - 📫 You can reach me on IRC (arinov), Freenode network.
